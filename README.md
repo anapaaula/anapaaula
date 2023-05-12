@@ -1,4 +1,11 @@
-### Hii, welcome!! ✨
+# 👋 Bem-vindo!
 
-- 👽 My name is Ana Paula, I'm 21 years old, live in Brazil and I'm a student at the Federal University of Campina Grande.
-- 🖥️ I’m currently learning: Java, Python e R.
+Meu nome é Ana Paula e sou desenvolvedora de software, apaixonada por tecnologia e sempre buscando aprender coisas novas. Aqui no GitHub você encontrará alguns dos meus projetos e trabalhos.
+
+## 🌱 Projetos
+
+No meu perfil você encontrará alguns projetos pessoais e trabalhos que desenvolvi durante minha graduação. Fique à vontade para explorar e dar feedbacks!
+
+## 📫 Contato
+
+Caso queira entrar em contato comigo e-mail: x.anapaulaa@gmail.com. Será um prazer conversar com você!
